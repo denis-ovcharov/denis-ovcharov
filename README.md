@@ -4,7 +4,7 @@
 
 ---
 
-Fullstack Developer with hands-on experience in HTML, CSS, and JavaScript, currently expanding expertise in React, Next.js and TypeScript. Proven leadership skills as Team Lead and Scrum Master on two educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
+Fullstack Developer with hands-on experience in HTML, CSS, and JavaScript, currently expanding expertise in React, Next.js and TypeScript. Proven leadership skills as Team Lead and developer on two educational projects, including task coordination and teammate support. Dedicated to writing clean, maintainable code. Reliable, supportive collaborator committed to collective success and continuous professional growth.
 
 ---
 
