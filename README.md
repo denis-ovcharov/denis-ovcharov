@@ -28,7 +28,7 @@ Fullstack Developer with hands-on experience in HTML, CSS, and JavaScript, curre
 📝 **Project description:** Animal shelter website  
 🧰 **Tech stack:** HTML5, CSS3, JavaScript (ES6+), REST API, AJAX
 
-👤 **Role:** Scrum Master / Developer  
+👤 **Role:** Team Lead / Developer  
 Organized the project's Agile workflow by architecting a detailed Trello system. Developed granular task specifications and checklists, managed teammate assignments, and tracked progress through a rigorous pipeline — including a dedicated Code Review stage — to ensure high-quality, on-time delivery. As a developer, engineered a data-driven reviews section utilizing Axios for asynchronous API fetching. Developed a dynamic gallery and rating system using the Swiper and raty.js libraries to render backend data into a responsive, user-friendly interface.
 
 ---
@@ -39,7 +39,7 @@ Organized the project's Agile workflow by architecting a detailed Trello system.
 📝 **Project description:** Adaptive website for a coffee shop  
 🧰 **Tech stack:** HTML5, CSS3, JavaScript
 
-👤 **Role:** Team Lead, Frontend Developer  
+👤 **Role:** Frontend Developer  
 Led and coordinated the work of the development team, monitored daily progress. Wrote and maintained frontend code using HTML and CSS, and implemented basic interactivity with JavaScript (modal windows). Conducted regular code reviews to ensure code quality and consistency. Assisted team members with problem-solving and ensured project requirements and deadlines were met through effective team management and communication.
 
 ---
