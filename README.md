@@ -22,9 +22,9 @@ Fullstack Developer with hands-on experience in HTML, CSS, and JavaScript, curre
 
 ## 🚀 Featured Projects
 
-### 🐾 [Paw Hut](https://kostya088.github.io/paw-hut/)
+### 🐾 [Paw Hut](url///)
 
-🔗 **GitHub repository:** https://github.com/Kostya088/paw-hut  
+🔗 **GitHub repository:** https://github.com/  
 📝 **Project description:** Animal shelter website  
 🧰 **Tech stack:** HTML5, CSS3, JavaScript (ES6+), REST API, AJAX
 
@@ -33,9 +33,9 @@ Organized the project's Agile workflow by architecting a detailed Trello system.
 
 ---
 
-### ☕ [Coffee Joy](https://kostya088.github.io/coffee-joy/)
+### ☕ [Coffee Joy](url///)
 
-🔗 **GitHub repository:** https://github.com/Kostya088/coffee-joy  
+🔗 **GitHub repository:** https://github.com/  
 📝 **Project description:** Adaptive website for a coffee shop  
 🧰 **Tech stack:** HTML5, CSS3, JavaScript
 
