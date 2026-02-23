@@ -22,7 +22,7 @@ Fullstack Developer with hands-on experience in HTML, CSS, and JavaScript, curre
 
 ## 🚀 Featured Projects
 
-### 🐾 [Paw Hut]([url///](https://denis-ovcharov.github.io/animals-goit-project/))
+### 🐾 [Paw Hut](https://denis-ovcharov.github.io/animals-goit-project/)
 
 🔗 **GitHub repository:** (https://github.com/denis-ovcharov/animals-goit-project)  
 📝 **Project description:** Animal shelter website  
