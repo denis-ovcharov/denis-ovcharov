@@ -33,7 +33,7 @@ Organized the project's Agile workflow by architecting a detailed Trello system.
 
 ---
 
-### ☕ [Coffee Joy](url///)
+### ☕ [Coffee Joy]([url///](https://github.com/denis-ovcharov/coffee-joy))
 
 🔗 **GitHub repository:** https://github.com/  
 📝 **Project description:** Adaptive website for a coffee shop  
