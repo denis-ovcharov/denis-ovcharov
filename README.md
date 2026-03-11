@@ -1,6 +1,6 @@
 # 👋 Hi, I am Denys Ovcharov
 
-## 💻 Trainee Fullstack Developer | JavaScript(ES6+) | React.js | Node.js
+## 💻 Junior Fullstack Developer | JavaScript(ES6+) | React.js | Node.js
 
 ---
 
